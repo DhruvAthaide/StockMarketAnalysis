@@ -1,4 +1,4 @@
-Welcome to my StockMarket Analysis Code!
+Welcome to my Stock Market Analysis Code!
 
 So, I have made this code with Help from a few People! I ran this code on Jupyter Notebook so, I would advise you do the same!
 
