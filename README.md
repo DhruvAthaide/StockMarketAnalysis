@@ -1,7 +1,7 @@
 
 # Stock Market Analysis
 
-This is Python Code that I have written using Jupyter Notebook and would advise you to do the same for Analyzing the Stock Patterns. It is not an advanced code but is used for basic analysis.
+This is Python Code that I have written using Jupyter Notebook and would advise you to do the same for Analyzing the Stock Patterns. It is not an advanced code but is used for basic analysis and is in the early stages.
 
 
 ## Running the Program
